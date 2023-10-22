@@ -24,7 +24,7 @@ baseurl:
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: /images/RR-logo-2021-transparent-01.png
+avatar: https://www.kuhw.com/d/file/p/2019/09-19/6d07b74395c6707d43209c7cd05dd18a.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片。
 favicon: /images/apple-touch-icon.png
