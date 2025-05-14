@@ -53,6 +53,7 @@ permalink: /about/
 - 2025.01 宋健,刘诗雯,陈文琪.中国青年群体婚育文化的形成与传播[J].东南学术,2025,(01):182-192.
           被《高等学校文科学术文摘》2025年第4期转载.
 - 2025.03 宋健,陈文琪.低生育率社会中的家庭结构与育儿功能——基于资源供需视角的实证分析[J].社会学研究,2025,40(02):19-42.
+
 ### 英文发表：
 - 2020.05 Li L., Li Y., Wang H., Chen W., Liu X. (2020). Effect of force level and gender on pinch force perception in healthy adults. i-Perception, 11(3), 1–14. https://doi.org/10.1177/2041669520927043.
   
